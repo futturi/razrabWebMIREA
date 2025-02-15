@@ -1,0 +1,13 @@
+CLIENT: 2025/02/15 11:06:16 main.go:47: Ошибка при подключении к серверу 127.0.0.1:8080: dial tcp 127.0.0.1:8080: connect: connection refused
+CLIENT: 2025/02/15 11:09:20 main.go:47: Ошибка при подключении к серверу 127.0.0.1:8080: dial tcp 127.0.0.1:8080: connect: connection refused
+CLIENT: 2025/02/15 11:11:04 main.go:108: {"timestamp":"2025-02-15T11:11:04.134316+03:00","event_type":"connect","details":"Успешное подключение","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:09 main.go:108: {"timestamp":"2025-02-15T11:11:09.137021+03:00","event_type":"send","details":"Отправлено сообщение: Иванов Иван ИВТ-21","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:09 main.go:108: {"timestamp":"2025-02-15T11:11:09.137541+03:00","event_type":"receive","details":"Получено сообщение: Привет, Иванов Иван ИВТ-21!","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:14 main.go:108: {"timestamp":"2025-02-15T11:11:14.136424+03:00","event_type":"send","details":"Отправлено сообщение: Иванов Иван ИВТ-21","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:14 main.go:108: {"timestamp":"2025-02-15T11:11:14.136801+03:00","event_type":"receive","details":"Получено сообщение: Привет, Иванов Иван ИВТ-21!","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:19 main.go:108: {"timestamp":"2025-02-15T11:11:19.135695+03:00","event_type":"send","details":"Отправлено сообщение: Иванов Иван ИВТ-21","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:19 main.go:108: {"timestamp":"2025-02-15T11:11:19.136011+03:00","event_type":"receive","details":"Получено сообщение: Привет, Иванов Иван ИВТ-21!","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:24 main.go:108: {"timestamp":"2025-02-15T11:11:24.137456+03:00","event_type":"send","details":"Отправлено сообщение: Иванов Иван ИВТ-21","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:24 main.go:108: {"timestamp":"2025-02-15T11:11:24.137946+03:00","event_type":"receive","details":"Получено сообщение: Привет, Иванов Иван ИВТ-21!","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:29 main.go:108: {"timestamp":"2025-02-15T11:11:29.142255+03:00","event_type":"send","details":"Отправлено сообщение: Иванов Иван ИВТ-21","server_address":"127.0.0.1"}
+CLIENT: 2025/02/15 11:11:29 main.go:108: {"timestamp":"2025-02-15T11:11:29.142794+03:00","event_type":"receive","details":"Получено сообщение: Привет, Иванов Иван ИВТ-21!","server_address":"127.0.0.1"}
