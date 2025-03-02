@@ -4,5 +4,5 @@
   "send_interval": 7,
   "name": "Кручинин Иван",
   "group": "БСБО-10-22",
-  "log_file": "./2/client/client.log"
+  "log_file": "client.log"
 }
