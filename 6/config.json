@@ -1,0 +1,14 @@
+{
+  "smtpHost": "smtp.gmail.com",
+  "smtpPort": "587",
+  "imapServer": "imap.gmail.com:993",
+  "username": "vanech12345@gmail.com",
+  "password": "тут пароль для приложения почты",
+  "from": "vanech12345@gmail.com",
+  "to": "lightbeag2@yandex.ru",
+  "labName": "Лабораторная работа №6",
+  "senderName": "Кручинин Иван Юрьевич",
+  "senderGroup": "Группа БСБО-10-22",
+  "receiverName": "Кручинин Иван Юрьевич",
+  "receiverGroup": "Группа БСБО-10-22"
+}
