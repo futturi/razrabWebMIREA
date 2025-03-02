@@ -32,3 +32,15 @@ CLIENT: 2025/02/15 11:22:54 main.go:108: {"timestamp":"2025-02-15T11:22:54.83831
 CLIENT: 2025/02/15 11:48:17 main.go:108: {"timestamp":"2025-02-15T11:48:17.908292+03:00","event_type":"connect","details":"Успешное подключение","server_address":"127.0.0.1"}
 CLIENT: 2025/02/15 11:48:24 main.go:108: {"timestamp":"2025-02-15T11:48:24.911354+03:00","event_type":"send","details":"Отправлено сообщение: Кручини Иван БСБО-10-22","server_address":"127.0.0.1"}
 CLIENT: 2025/02/15 11:48:24 main.go:108: {"timestamp":"2025-02-15T11:48:24.912244+03:00","event_type":"receive","details":"Получено сообщение: HTTP/1.1 200 OK","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:16:13 main.go:47: Ошибка при подключении к серверу 127.0.0.1:8080: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+CLIENT: 2025/03/02 14:17:14 main.go:47: Ошибка при подключении к серверу 127.0.0.1:8080: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+CLIENT: 2025/03/02 14:17:27 main.go:108: {"timestamp":"2025-03-02T14:17:27.964299+03:00","event_type":"connect","details":"Успешное подключение","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:17:34 main.go:108: {"timestamp":"2025-03-02T14:17:34.9878155+03:00","event_type":"send","details":"Отправлено сообщение: Кручини Иван БСБО-10-22","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:17:34 main.go:108: {"timestamp":"2025-03-02T14:17:34.9878155+03:00","event_type":"receive","details":"Получено сообщение: Привет, Кручини Иван БСБО-10-22!","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:17:41 main.go:108: {"timestamp":"2025-03-02T14:17:41.9880978+03:00","event_type":"send","details":"Отправлено сообщение: Кручини Иван БСБО-10-22","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:17:41 main.go:108: {"timestamp":"2025-03-02T14:17:41.9880978+03:00","event_type":"receive","details":"Получено сообщение: Привет, Кручини Иван БСБО-10-22!","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:25:07 main.go:108: {"timestamp":"2025-03-02T14:25:07.3984817+03:00","event_type":"connect","details":"Успешное подключение","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:25:14 main.go:108: {"timestamp":"2025-03-02T14:25:14.4248676+03:00","event_type":"send","details":"Отправлено сообщение: Кручинин Иван БСБО-10-22","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:25:14 main.go:108: {"timestamp":"2025-03-02T14:25:14.4248676+03:00","event_type":"receive","details":"Получено сообщение: Привет, Кручинин Иван БСБО-10-22!","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:25:21 main.go:108: {"timestamp":"2025-03-02T14:25:21.4247711+03:00","event_type":"send","details":"Отправлено сообщение: Кручинин Иван БСБО-10-22","server_address":"127.0.0.1"}
+CLIENT: 2025/03/02 14:25:21 main.go:108: {"timestamp":"2025-03-02T14:25:21.4247711+03:00","event_type":"receive","details":"Получено сообщение: Привет, Кручинин Иван БСБО-10-22!","server_address":"127.0.0.1"}
