@@ -23,8 +23,7 @@ def handle_connection(conn, addr):
                 break
 
 def main():
-    logging.basicConfig(level=logging.INFO,
-                        format="%(asctime)s %(levelname)s: %(message)s")
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', handlers=[logging.FileHandler('server.log', encoding="utf-8", mode="a")])
     host = ''
     port = 8080
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

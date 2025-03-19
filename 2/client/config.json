@@ -2,7 +2,7 @@
   "server_address": "127.0.0.1",
   "server_port": 8080,
   "send_interval": 7,
-  "name": "Кручинин Иван",
+  "name": "Черномырдин Михаил Алексеевич",
   "group": "БСБО-10-22",
   "log_file": "./2/client/client.log"
 }
